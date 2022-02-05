@@ -1,3 +1,4 @@
+ㅤ[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/DİSCORD ID NIZ)](https://discord.com/users/DİSCORD ID NIZ)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
