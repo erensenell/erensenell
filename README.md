@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-ㅤ[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/906925427375865896)](https://discord.com/users/906925427375865896)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erensenell&layout=compact&theme=dark) 
 
