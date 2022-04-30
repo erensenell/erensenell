@@ -13,7 +13,7 @@
 <a align="left">
 <a href="https://discord.gg/vj86Nq48Pj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vj86Nq48Pj" height="30" width="40" /></a>
 </p>
-
+(Discord Profilim)[https://discord.com/users/906925427375865896]
 
 
 
