@@ -5,14 +5,6 @@
 <h1 align="center">Hi 👋, I'm Eren Şenel</h1>
 <h3 align="center">ㅤI'm Eren, 17 years old, I started this business by designing a discord bot, and now I continue by developing applications and games.</h3>
 
-[Discord Profilim](https://discord.com/users/906925427375865896)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="erensenel.cf/feed" height="30" width="40" /></a>
-<a/>
-<a align="left">
-<a href="https://discord.gg/vj86Nq48Pj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vj86Nq48Pj" height="30" width="40" /></a>
-</p>
 
 
 
