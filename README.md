@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Eren Şenel</h1>
-<h3 align="center">ㅤI'm Eren, 17 years old, I started this business by designing a discord bot, and now I continue by developing applications and games.</h3>
+<h3 align="center">Yaklaşık 4 yıldır programlama ile ilgileniyorum. Programlamaya ilk olarak JavaScript kodlayarak başladım ve şimdi macerama son hızla devam ediyorum.</h3>
 
 
 
